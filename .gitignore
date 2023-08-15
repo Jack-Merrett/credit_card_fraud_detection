@@ -1,0 +1,3 @@
+# The data set is too big so we will put it all in here
+*.csv
+data/creditcard.csv
